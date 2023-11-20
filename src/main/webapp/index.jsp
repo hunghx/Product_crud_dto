@@ -7,6 +7,6 @@
 <body>
 <h1><%= "Hello World!" %></h1>
 <br/>
-<a href="todo">danh sách</a>
+<a href="/product">danh sách</a>
 </body>
 </html>
